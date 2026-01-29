@@ -3,7 +3,7 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas**.
 Venho construindo minha base técnica de forma gradual e consistente, priorizando compreensão de conceitos, clareza de código e boas práticas de desenvolvimento.
 
-Tenho interesse em fundamentos de sistemas, programação em C e no entendimento de como o software se comporta em contextos mais próximos do hardware.  
+Tenho interesse em fundamentos de sistemas e no entendimento de como o software se comporta em contextos mais próximos do hardware.  
 Minha formação em **Letras** e **Pedagogia** contribui para uma abordagem cuidadosa com documentação, leitura técnica e aprendizado estruturado.
 
 ---
